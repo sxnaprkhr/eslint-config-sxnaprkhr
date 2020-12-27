@@ -11,6 +11,8 @@
     "prettier",
     "config"
   ],
+  "repository": "git@github.com:sxnaprkhr/eslint-config-sxnaprkhr.git",
+  "author": "Prakhar Saxena",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
